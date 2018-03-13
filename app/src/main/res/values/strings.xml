@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">zapatosXYZ</string>
+    <string name="marca">Marca:</string>
+    <string-array name="strMarca">
+        <item>@string/Nike</item>
+        <item>@string/Adidas</item>
+        <item>@string/Puma</item>
+    </string-array>
+    <string name="sexo">Sexo:</string>
+    <string-array name="strSexo">
+        <item>@string/Masculino</item>
+        <item>@string/Femenino</item>
+    </string-array>
+    <string name="tipozapato">Tipo De Zapato:</string>
+    <string-array name="strTipo">
+        <item>@string/zapatillas</item>
+        <item>@string/clasicos</item>
+    </string-array>
+
+
+
+    <string name="cantidad">Cantidad:</string>
+    <string name="unitario">Valor unitario:</string>
+    <string name="total">Valor Total:</string>
+    <string name="valor">Digite la Cantidad</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="detallesCompra">Detalles De la compra</string>
+
+
+
+    <string name="pago">Forma de pago:</string>
+    <string-array name="strMoneda">
+        <item>@string/pesos</item>
+        <item>@string/dolares</item>
+    </string-array>
+    <string name="pesos">Pesos</string>
+    <string name="dolares">Dolares</string>
+
+    <string name="Dolar" >Dolar</string>
+    <string name="peso">Peso</string>
+    <string name="tipoDePago">Tipo de pago:</string>
+    <string name="zapatillas">zapatillas</string>
+    <string name="clasicos">clasicos</string>
+    <string name="Masculino">masculino</string>
+    <string name="Femenino">femenino</string>
+    <string name="Nike">nike</string>
+    <string name="Adidas">adidas</string>
+    <string name="Puma">puma</string>
+
+
+</resources>

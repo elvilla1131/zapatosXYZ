@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shoes xyz</string>
+    <string name="sexo">sex:</string>
+    <string name="tipozapato">Type of shoes:</string>
+    <string name="marca">Mark:</string>
+    <string name="cantidad">Cuantity:</string>
+    <string name="unitario">Unit:</string>
+    <string name="total">Total:</string>
+    <string name="valor">Value:</string>
+    <string name="cancelar">Cancel</string>
+    <string name="aceptar">Acept</string>
+    <string name="detallesCompra">Details:</string>
+    <string name="pago">Payment:</string>
+    <string name="pesos">Pesos</string>
+    <string name="dolares">US dollars</string>
+    <string name="Dolar">Us dollars</string>
+    <string name="peso">Peso</string>
+    <string name="tipoDePago">Payment:</string>
+    <string name="zapatillas">sneakers</string>
+    <string name="clasicos">Clasics</string>
+    <string name="Masculino">Male</string>
+    <string name="Femenino">Female</string>
+    <string name="Nike">Nike</string>
+    <string name="Adidas">Adidas</string>
+    <string name="Puma">Puma</string>
+</resources>
